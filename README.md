@@ -1,19 +1,13 @@
-# start-lit-element
+# template-base
 
-A simple Hello World for LitElement.
-
-https://start-lit-element.firebaseapp.com/
-
-* [Quick start](#quick-start)
-* [Detailed setup info](#detailed-setup-info)
-* [Browser compatibility and performance](#browser-compatibility-and-performance)
+Base lit-element template.
 
 ## Quick start
 
 ```
 npm install -g polymer-cli
-git clone https://github.com/start-lit-element/start-lit-element.git
-cd start-lit-element
+git clone https://github.com/AmdtelWebComponents/template-base.git
+cd template-base
 npm install
 polymer serve
 ```

@@ -12,7 +12,7 @@
 // Import LitElement base class and html helper function
 import { LitElement, html } from '@polymer/lit-element';
 
-export class StartLitElement extends LitElement {
+export class TemplateBase extends LitElement {
   /**
    * Define properties. Properties defined here will be automatically 
    * observed.
@@ -102,4 +102,4 @@ export class StartLitElement extends LitElement {
 }
 
 // Register the element with the browser
-customElements.define('start-lit-element', StartLitElement);
+customElements.define('template-base', TemplateBase);

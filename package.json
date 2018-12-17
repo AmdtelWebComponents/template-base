@@ -1,13 +1,13 @@
 {
-  "name": "start-lit-element",
+  "name": "template-base",
   "version": "1.0.0",
-  "description": "start-lit-element",
-  "repository": "https://github.com/PolymerLabs/start-lit-element.git",
-  "main": "start-lit-element.js",
+  "description": "template-base",
+  "repository": "https://github.com/AmdtelWebComponents/template-base.git",
+  "main": "template-base.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "The Polymer Authors",
+  "author": "AmdtelWebComponents",
   "license": "BSD-3-Clause",
   "dependencies": {
     "@webcomponents/webcomponentsjs": "latest",
